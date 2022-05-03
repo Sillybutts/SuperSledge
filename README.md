@@ -1,10 +1,11 @@
 # SuperSledge
-
+A modern hobby-grade break action shell ejecting blaster.
 
 ## Description
 
 General blaster overview: 
 
+The SuperSledge is a modern hobby-grade break action shell ejecting blaster, similar to the old Nerf Sledgefire.
 
 ## Hardware, Compatability, and Availability
 
