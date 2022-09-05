@@ -24,7 +24,7 @@ That being said, here's a hardware list: https://docs.google.com/spreadsheets/d/
 I will not be making a full assembly guide for the SuperSledge, but here's some pictures to help you figure out where to put what. 
 
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20cross%20section.png" width="500">
-<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path%202.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%204.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%205.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%206.png" width="500">
