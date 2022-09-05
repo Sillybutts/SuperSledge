@@ -1,7 +1,7 @@
 # SuperSledge
 A shell ejecting blaster, a good learning experience for design.
 
-# **THE SUPER SLEDGE IS ABANDONED.**
+# **THE SUPER SLEDGE IS ABANDONED. IT WAS A GREAT LEARNING EXPERIENCE AS A DESIGNER, BUT IT JUST HAS TOO MANY FUNDEMENTAL ISSUES TO BE WORTHWHILE FOR ME TO FINISH, AND I WOULDN'T BE HAPPY WITH THE FINAL RESULT EVEN IF I DID RELEASE IT PROPERLY FINISHED. SO THESE FILES ARE FOR PEOPLE TO HAVE FUN WITH, FINISH ON THEIR OWN, AND FOR THE PEOPLE WHO BOUGHT HARDWARE KITS SO LONG AGO, NEVER ABLE TO EVEN GET A "meh" BLASTER OUT OF IT. SORRY TO YOU FOLK :(**
 
 ## Description
 
@@ -13,7 +13,7 @@ The SuperSledge is a hobby-grade break action shell ejecting blaster, similar to
 
 ## Hardware, Compatability, and Availability
 
-Hardware was previously sold by CaptainSlug, but no hardware is currently being produced. The SuperSledge is basically an abandoned/finished design, and I have no plans to make hardware kits.
+Hardware was previously sold by CaptainSlug, but no hardware is currently being produced. The SuperSledge is basically an abandoned/"""finished""" design, and I have no plans to make hardware kits.
 
 That being said, here's a hardware list: https://docs.google.com/spreadsheets/d/1u4mv7_Of2lPWJnp0_FuKg_yKTyttZHyiTwWyMT9gIm0/
 
@@ -22,6 +22,17 @@ That being said, here's a hardware list: https://docs.google.com/spreadsheets/d/
 ## Assembly
 
 I will not be making a full assembly guide for the SuperSledge, but here's some pictures to help you figure out where to put what. 
+
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20cross%20section.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%204.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%205.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%206.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%202.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%203.png" width="500">
+
+
 
 Some glue is needed on the bit that the top lever pivots on. 
 
@@ -62,4 +73,12 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%202.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%203.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%204.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%205.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%206.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20cross%20section.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path.png" width="500">
+
