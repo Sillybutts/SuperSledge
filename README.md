@@ -125,5 +125,5 @@ https://www.youtube.com/watch?v=HjFgJGKhcjU
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%205.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%206.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20cross%20section.png" width="500">
-<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path.png" width="500">
+<img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%20elastic%20path&202.png" width="500">
 
