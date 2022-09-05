@@ -36,7 +36,7 @@ I will not be making a full assembly guide for the SuperSledge, but here's some 
 
 Some glue is needed on the bit that the top lever pivots on. 
 
-The catch and shell ejector use elastic. 
+The catch, barrel locking lever, and shell ejector use elastic. 
 
 The two pins that go in slots (the priming wedge and the plunger rod) need spacers on both sides of the shell, with a printed cotter pin keeping them in place.
 
