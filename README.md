@@ -9,6 +9,18 @@ General blaster overview:
 
 The SuperSledge is a hobby-grade break action shell ejecting blaster, similar to the old Nerf Sledgefire.
 
+Reviews:
+
+https://www.youtube.com/watch?v=HjFgJGKhcjU
+
+Overview videos:
+
+https://www.youtube.com/watch?v=E0MEbuIhNUQ
+
+https://www.youtube.com/watch?v=tkdhmsmJKLo
+
+
+
 # **THE SUPER SLEDGE IS ABANDONED.**
 
 ## Hardware, Compatability, and Availability
@@ -32,6 +44,11 @@ I will not be making a full assembly guide for the SuperSledge, but here's some 
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%202.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%203.png" width="500">
 
+Video help: 
+
+https://www.youtube.com/watch?v=_Oerzc3_wmw
+
+https://www.youtube.com/watch?v=YjWesXvZ7qs
 
 
 Some glue is needed on the bit that the top lever pivots on. 
@@ -71,7 +88,22 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 
 
-## Images
+## Images and Videos
+
+https://www.youtube.com/watch?v=UtcTChv5F5E
+https://www.youtube.com/watch?v=8y1QMHJ7zKs
+https://www.youtube.com/watch?v=R51Mks6aqek
+https://www.youtube.com/watch?v=YXaIyloAJjo
+https://www.youtube.com/watch?v=pdmsKouHnXU
+https://www.youtube.com/watch?v=2bbZRRIReuE
+https://www.youtube.com/watch?v=1xaXCXD13BM
+https://www.youtube.com/watch?v=rF8XtCtdP8w
+https://www.youtube.com/watch?v=53_GNsG4yrY
+https://www.youtube.com/watch?v=tkdhmsmJKLo
+https://www.youtube.com/watch?v=E0MEbuIhNUQ
+https://www.youtube.com/watch?v=YjWesXvZ7qs
+https://www.youtube.com/watch?v=_Oerzc3_wmw
+https://www.youtube.com/watch?v=HjFgJGKhcjU
 
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992.png" width="500">
 <img src="GHimages/Homemade%20Sledgefire%20SuperSledge%20v992%202.png" width="500">
